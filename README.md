@@ -52,7 +52,7 @@ The constructor accepts an optional options bag with the following:
 
 #### `startOnboarding()`
 
-Starts onboarding by opening the MetaMask download page and waiting for Tally Ho to be installed. Once the Tally Ho extension installation is detected, a message will be sent to Tally Ho to register the current site as the onboarding initiator.
+Starts onboarding by opening the Tally Ho's download page and waiting for Tally Ho to be installed. Once the Tally Ho extension installation is detected, a message will be sent to Tally Ho to register the current site as the onboarding initiator.
 
 #### `stopOnboarding()`
 
